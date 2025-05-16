@@ -41,10 +41,9 @@ Educators: A practical example for classroom demonstrations.
 📥 Get the Source Code
 The full source code is available for download and comes with MySQL database files and setup instructions. Remote installation support is also available if needed.
 
-👉 Download Stock Management System Project in Java – Source Code
+👉 Download Stock Management System Project in Java – Source Code 
 
-🎥 Watch It in Action
-Before you download, you can watch a demo of the project on YouTube to see how it works:
+https://projectsforeveryone.com/project/stock-management-system-project-in-java-source-code/
 
 ▶️ Stock Management System Project Demo – YouTube
 
@@ -53,4 +52,4 @@ The Stock Management System Project is a well-rounded Java application that cove
 
 Whether you're preparing for a project submission, enhancing your programming skills, or looking for a customizable inventory tool, this project is a great place to start.
 
-👉 Don’t miss out: Get the full project here
+👉 Don’t miss out: Get the full project here https://projectsforeveryone.com/project/stock-management-system-project-in-java-source-code/
